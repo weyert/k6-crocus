@@ -32,7 +32,6 @@ jobs:
             github.com/szkiba/xk6-csv@v0.1.2
             github.com/szkiba/xk6-ansible-vault@v0.1.2
             github.com/olvod/xk6-pubsub@latest
-            github.com/k6io/xk6-distributed-tracing@latest
 
       - name: Create Release
         uses: softprops/action-gh-release@v1
