@@ -1,5 +1,6 @@
 name: xk6bundler
 on:
+  pull_request:
   push:
     tags:
       - "v*"
