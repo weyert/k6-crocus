@@ -31,6 +31,9 @@ jobs:
             github.com/szkiba/xk6-toml@v0.1.2
             github.com/szkiba/xk6-csv@v0.1.2
             github.com/szkiba/xk6-ansible-vault@v0.1.2
+            github.com/grafana/xk6-kubernetes@latest
+            github.com/grafana/xk6-distributed-tracing@v0.1.0
+            github.com/grafana/xk6-client-prometheus-remote@v0.1.0
             github.com/olvod/xk6-pubsub@latest
 
       - name: Create Release
